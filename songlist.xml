@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type=“text/css” href=“styles.css”?>
+
+<Songs>
+    <Song>
+        <Title> For the First Time </Title>
+        <Artist> The Script </Artist>
+        <Genres> 
+            <Genre> Pop Rock </Genre>
+        </Genres>
+        <Year> 2010 </Year>
+    </Song>
+    <Song>
+        <Title> Nothing </Title>
+        <Artist> The Script </Artist>
+        <Genres> 
+            <Genre> Pop Rock </Genre>
+        </Genres>
+        <Year> 2010 </Year>
+    </Song>
+    <Song>
+        <Title> Breakeven </Title>
+        <Artist> The Script </Artist>
+        <Genres> 
+            <Genre> Pop Rock </Genre>
+        </Genres>
+        <Year> 2008 </Year>
+    </Song>
+    <Song>
+        <Title> The Scientist </Title>
+        <Artist> Coldplay </Artist>
+        <Genres> 
+            <Genre> Alternative Rock </Genre>
+        </Genres>
+        <Year> 2002 </Year>
+    </Song>
+    <Song>
+        <Title> A Sky Full of Stars </Title>
+        <Artist> Coldplay </Artist>
+        <Genres> 
+            <Genre> Alternative Rock </Genre>
+            <Genre> Progressive House </Genre>
+        </Genres>
+        <Year> 2014 </Year>
+    </Song>
+    <Song>
+        <Title> Viva La Vida </Title>
+        <Artist> Coldplay </Artist>
+        <Genres> 
+            <Genre> Pop Rock </Genre>
+        </Genres>
+        <Year> 2008 </Year>
+    </Song>
+    <Song>
+        <Title> Easy On Me </Title>
+        <Artist> Adele </Artist>
+        <Genres> 
+            <Genre> Pop </Genre>
+        </Genres>
+        <Year> 2021 </Year>
+    </Song>
+    <Song>
+        <Title> When We Were Young </Title>
+        <Artist> Adele </Artist>
+        <Genres> 
+            <Genre> Soul </Genre>
+            <Genre> Pop </Genre>
+        </Genres>
+        <Year> 2016 </Year>
+    </Song>
+    <Song>
+        <Title> Someone like You </Title>
+        <Artist> Adele </Artist>
+        <Genres> 
+            <Genre> Pop </Genre>
+        </Genres>
+        <Year> 2011 </Year>
+    </Song>
+    <Song>
+        <Title> Waiting for Love </Title>
+        <Artist> Avicii </Artist>
+        <Genres> 
+            <Genre> Progressive House </Genre>
+        </Genres>
+        <Year> 2015 </Year>
+    </Song>
+    <Song>
+        <Title> The Nights </Title>
+        <Artist> Avicii </Artist>
+        <Genres> 
+            <Genre> Progressive House </Genre>
+        </Genres>
+        <Year> 2014 </Year>
+    </Song>
+    <Song>
+        <Title> The Days </Title>
+        <Artist> Avicii </Artist>
+        <Genres> 
+            <Genre> Progressive House </Genre>
+            <Genre> Soul </Genre>
+        </Genres>
+        <Year> 2014 </Year>
+    </Song>
+</Songs>
