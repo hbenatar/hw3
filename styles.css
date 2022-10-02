@@ -1,24 +1,38 @@
 Songs {
-    background-color: #ffffff;
-    width: 100%;
+    font-family: "Didot", serif;
+    margin: 10px 10px 10px 10px;
+    width: 100%
 }
 Song {
     display: block;
-    margin-bottom: 30pt;
-    margin-left: 0;
+    margin-bottom: 20pt;
 }
 Title {
     display: block;
-    color: #ff0000;
-    font-size: 20pt;
+    color: #5900ff;
+    font-size: 16pt;
+    font-weight: 800;
 }
 Artist {
     display: block;
-    color: #0000ff;
-    font-size: 20pt;
+    color: #0099ff;
+    font-size: 15pt;
+    font-weight: 800;
 }
-Genres, Genre, Year {
+Genres:before {
+    content: "Genres: ";
+}
+Genre ~ Genre::before {
+    content: "- "; 
+}
+Genre {
+    display: inline;
+    color: #000000;
+}
+Year:before {
+    content: "Release Year: ";
+}
+Year {
     display: block;
     color: #000000;
-    margin-left: 20pt;
 }
